@@ -1,0 +1,25 @@
+﻿html, body{height:100%; margin:0;padding:0}
+ 
+.container-fluid{
+  height:100%;
+  display:table;
+  width: 100%;
+  padding: 30;
+}
+ 
+.row-fluid {height: 100%; display:table-cell; vertical-align: middle;}
+ 
+ 
+
+.centering {
+  float:none;
+  margin:0 auto;
+}
+
+body {
+  margin: 0;
+  background-image: url("images/Bck.png") !important;
+  background-repeat: no-repeat;
+  background-size: 100% 100%;
+ 
+}
